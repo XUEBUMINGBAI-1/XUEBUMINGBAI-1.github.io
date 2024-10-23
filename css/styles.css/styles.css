@@ -44,7 +44,7 @@ body, html {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(background-images.jpg'); /* 替换为你的背景图路径 */
+    background-image: url(images/background.jpg'); /* 替换为你的背景图路径 */
     background-size: cover;
     background-position: center;
     z-index: 0;

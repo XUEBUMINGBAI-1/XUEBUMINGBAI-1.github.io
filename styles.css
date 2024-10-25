@@ -103,6 +103,6 @@ body, html {
 }
 
 .module:nth-child(4) {
-    background-image: url('your-custom-image4.jpg');
+    background-image: url('background4.jpg');
     background-opacity: 0.75;
 }

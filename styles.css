@@ -18,6 +18,7 @@ body, html {
     align-items: center; /* 水平居中 */
     text-align: center;
     color: white;
+    z-index:1;
 }
 
 .welcome {
